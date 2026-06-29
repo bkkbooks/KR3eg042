@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR3eg042/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eg042/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 霍亂燃犀說
+  identifiers:
+    krp: KR3eg042
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg042.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg042_000-jc.yaml, hash: 'sha256:c7fc82b31b88cc89f97ebb9dfa744d39b5545c79e7dbe1826db2abfd440b0394'}
+  - {seq: 1, filename: KR3eg042_001-jc.yaml, hash: 'sha256:5f02b52f4a81b3abf70ec4cf5d377c8f4c5a026d2b4335c8f1853898857c4e84'}
+  - {seq: 3, filename: KR3eg042_003-jc.yaml, hash: 'sha256:e9508866f2bbe675c0bbc8eb8be8f1e7fcbb561a1245a78412257276233f507e'}
+  - {seq: 0, filename: KR3eg042_000-jc.yaml, hash: 'sha256:e026b51ba4e39a68680ef9bf1852fc2b882870add317894f7d7169d530fc4af0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg042_000-jc.markers.yaml, hash: 'sha256:b01de43115d5ab049ea1c2fe5044650b9a963ba496bcb75f1b221464340d6f6c'}
+  - {seq: 1, role: markers, filename: assets/KR3eg042_001-jc.markers.yaml, hash: 'sha256:9ee90de6169db813ff80607e92f06c8fea18a2755127e37d9a8beb4cea187f6c'}
+  - {seq: 3, role: markers, filename: assets/KR3eg042_003-jc.markers.yaml, hash: 'sha256:bb1dcc9f276732e95f29ab207d7d3eb48195cdcdbff8dc10f754f98921118897'}
+  - {seq: 0, role: markers, filename: assets/KR3eg042_000-jc.markers.yaml, hash: 'sha256:b01de43115d5ab049ea1c2fe5044650b9a963ba496bcb75f1b221464340d6f6c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg042_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 511
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg042_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 485
+  label: 題辭
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg042_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6035
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg042_jc_001-d4d38
+    span:
+    - body
+    - 3064
+    - 6035
+  label: 列方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg042_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3977
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eg042_jc_003-d5d16
+    span:
+    - body
+    - 1576
+    - 2728
+  label: 列方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg042_jc_003-d5d17
+    span:
+    - body
+    - 2728
+    - 3977
+  label: 補方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg042_jc_000-d6.h1s1
+    span:
+    - body
+    - 0
+    - 269
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:395a1bbd2098b8b5a4b62d1c3afbea2b6d2595e789d26d4796a3c874babdf9c2

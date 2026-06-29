@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eg042/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋霍亂非怪證也然而倉卒變端醫藥輒誤則霍亂之不怪而怪較諸怪證而尤為怪也惟是霍亂醫者都以熱證為寒證而治以熱藥至死終不一悟此則不獨證之怪而醫亦無不怪矣醫藥之怪更怪於霍亂之怪霍亂用醫藥誤治而成怪而醫藥在在皆然不自以為怪而怪乃錮矣於是霍亂之無所為怪而遂成怪證怪何能知怪亦可燭此季父作霍亂燃犀說之由來也昔溫大真燃犀以照水怪歷歷可數雖醫藥霍亂之怪非水之怪也然讀是說則屬寒屬熱絕無混淆胸有成竹不使霍亂之遁形變相不致醫藥之視赤成碧豈非怪而不怪設或霍亂之有怪醫藥之怪人能盡悉其怪而怪肯化為不怪是說奚翅燃犀之明僅照水怪哉戊子夏日從子玉林百拜謹跋於崑山隱園之寓廬
+  hash: sha256:168b793776dc41be82e7e3a5403eb3b51e3bfe02542e65747dfc2fd1beaa5e80
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eg042_jc_000-d6.h1s1}
+metadata:
+  title: 霍亂燃犀說
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg042.xml
+hash: sha256:e026b51ba4e39a68680ef9bf1852fc2b882870add317894f7d7169d530fc4af0
